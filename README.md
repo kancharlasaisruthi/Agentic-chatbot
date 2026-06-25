@@ -1,3 +1,3 @@
 ### End to end project Agentic AI Project
 
-![alt text](image.png)
+![alt text](sc/image.png)
